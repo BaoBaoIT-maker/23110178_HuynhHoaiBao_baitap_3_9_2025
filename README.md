@@ -1,8 +1,15 @@
-# Bài tập về category và quên mật khẩu
+# Bài tập: Category & Quên mật khẩu
 
-## Mục tiêu
-Chạy demo từ trang login, trang login sẽ hiển thị các phần như nhập tên và mật khẩu đăng nhâp, có phần quên mật khẩu và đăng ký tài khoản. Nếu người dùng nhấn quên mật khẩu thì sẽ chuyển sang trang xác thực email để tạo mật khẩu mới.
-Nếu người dùng đăng nhập với tài khoản admin thì có quyền được thao tác với category trong trang của admin.
-PROJECT WEB là thư mục hoàn thiện cuối cùng!
-## Lưu ý
-- File login.jsp là điểm bắt đầu của demo nên chỉ chạy file login.jsp trong project thôi.
+## 🎯 Mục tiêu
+- Chạy demo từ **trang `login.jsp`** (điểm bắt đầu của dự án).
+- Trang đăng nhập hiển thị:
+  - Ô nhập **tên đăng nhập** và **mật khẩu**.
+  - Liên kết **Quên mật khẩu**.
+  - Liên kết **Đăng ký tài khoản**.
+  - Nút **Nhớ tôi** để nhớ tên tài khoản người dùng.
+- Khi người dùng chọn **Quên mật khẩu** → chuyển sang trang xác thực email để tạo mật khẩu mới.
+- Nếu người dùng đăng nhập với tài khoản **admin** → có quyền thao tác với **Category** trong trang quản trị.
+
+
+## ⚡️ Lưu ý
+✨ Hoàn thành dự án trong thư mục **`PROJECT WEB`**
